@@ -1,0 +1,17 @@
+.search-bar {
+  margin-left: 25%;
+  width: 50%;
+  padding: 10px;
+  margin-bottom: 20px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.search-bar:focus {
+  outline: none;
+  border-color: #007bff;
+}
+.highlight {
+  background-color: yellow !important;
+}
